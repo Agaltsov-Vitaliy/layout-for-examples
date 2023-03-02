@@ -1,3 +1,16 @@
 body {
-	background-color: azure;
+	background-color: rgb(143, 204, 204);
 }
+
+nav {
+	border-right: 1px solid #b19891;
+}
+
+ul {
+	list-style-image: url(img/icon-menu/mark.png);
+}
+
+a {
+	text-decoration: none;
+}
+
